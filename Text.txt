@@ -1,0 +1,21 @@
+\Server\Vnit.DataObjectS\Extranet.cs
+\BRSExtranet\Extranet\Views\Operation\Partial_BookServices.cshtml
+\BRSExtranet\Extranet\Views\Operation\BookServices.cshtml
+\BRSExtranet\Extranet\Controllers\OperationController.cs
+
+
+calculateBuy($(this))
+
+
+E:\\Work\\Source_Proposal\\Bin\\Client\\TEMPLATE\\Package\\Pla-card-without-logo.doc
+
+C:\Users\Hong Kiem\AppData\Local\Temp\ILLUTIONS\636807263397406668\930168_Pla-card.doc
+C:\Users\Hong Kiem\AppData\Local\Temp\ILLUTIONS\636807263397426611\930168_Pla-card-without-logo.doc
+
+
+C:\Users\Hong Kiem\AppData\Local\Temp\ILLUTIONS\636807431465213293\930168_Pla-card.doc
+C:\Users\Hong Kiem\AppData\Local\Temp\ILLUTIONS\636807431465223272\930168_Pla-card-without-logo.doc
+
+
+#575:
+	Các item bị double dòng : E:\Work\GVV\Source\Server\Vnit.DataObjectS\Extranet.cs
